@@ -5,5 +5,6 @@ Useful links for making documentations on GitHub
 
 - [How to handle missing data](https://www.kaggle.com/pavansanagapati/simple-tutorial-how-to-handle-missing-data)
 
+- [Encoding categorical variable](https://pbpython.com/categorical-encoding.html)
 
 
