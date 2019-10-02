@@ -7,4 +7,11 @@ Useful links for making documentations on GitHub
 
 - [Encoding categorical variable](https://pbpython.com/categorical-encoding.html)
 
+- [Ensembling/creating new features](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
+
+
+
+
+
+
 
