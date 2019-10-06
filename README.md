@@ -9,7 +9,7 @@ Useful links for data science.
 
 - [Ensembling/creating new features](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 
-- [Data science solutions](https://www.kaggle.com/startupsci/titanic-data-science-solutions)
+- [Data science basics](https://www.kaggle.com/startupsci/titanic-data-science-solutions)
 
 
 
