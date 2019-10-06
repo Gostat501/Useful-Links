@@ -9,6 +9,8 @@ Useful links for making documentations on GitHub
 
 - [Ensembling/creating new features](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 
+- [Data science solutions](https://www.kaggle.com/startupsci/titanic-data-science-solutions)
+
 
 
 
