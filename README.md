@@ -1,5 +1,5 @@
 # Useful-Links
-Useful links for making documentations on GitHub
+Useful links for data science.
 
 - [GitHub and R](https://resources.github.com/whitepapers/github-and-rstudio/)
 
