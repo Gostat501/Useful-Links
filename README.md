@@ -9,6 +9,8 @@ Useful links for data science.
 
 - [Ensembling/creating new features](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 
+- [Ensemble modeling](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling)
+
 - [Data science basics](https://www.kaggle.com/startupsci/titanic-data-science-solutions)
 
 - [Achieve 99% accuracy strategies](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy)
