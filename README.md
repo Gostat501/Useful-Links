@@ -17,6 +17,7 @@ Useful links for data science.
 
 - [Metric of Machine-Learning errors](https://towardsdatascience.com/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-1-regrression-metrics-3606e25beae0)
 
+- [How to answer bussiness marketing questions](https://blog.hubspot.com/marketing/marketing-questions-analytics)
 
 
 
