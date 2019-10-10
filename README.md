@@ -19,6 +19,6 @@ Useful links for data science.
 
 - [How to answer bussiness marketing questions](https://blog.hubspot.com/marketing/marketing-questions-analytics)
 
-
+- [6 digital marketing analytics questions](https://www.socialmediatoday.com/news/6-digital-marketing-analytics-questions-answered/539450/)
 
 
