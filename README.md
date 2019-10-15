@@ -21,4 +21,7 @@ Useful links for data science.
 
 - [6 digital marketing analytics questions](https://www.socialmediatoday.com/news/6-digital-marketing-analytics-questions-answered/539450/)
 
+- [Intro to CNN Keras, for image processing](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)
+
+
 
