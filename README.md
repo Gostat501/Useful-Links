@@ -25,4 +25,4 @@ Useful links for data science.
 
 - [Ensemble Modeling (ZestFinance)](https://www.zestfinance.com/blog/many-heads-are-better-than-one-making-the-case-for-ensemble-learning)
 
-
+- [Jupyter Markdown Codes] (https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
