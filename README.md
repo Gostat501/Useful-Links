@@ -23,5 +23,6 @@ Useful links for data science.
 
 - [Intro to CNN Keras, for image processing](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)
 
+- [Ensemble Modeling (ZestFinance)](https://www.zestfinance.com/blog/many-heads-are-better-than-one-making-the-case-for-ensemble-learning)
 
 
