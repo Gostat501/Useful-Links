@@ -25,4 +25,6 @@ Useful links for data science.
 
 - [Ensemble Modeling (ZestFinance)](https://www.zestfinance.com/blog/many-heads-are-better-than-one-making-the-case-for-ensemble-learning)
 
-- [Jupyter Markdown Codes] (https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
+- [Jupyter Markdown Codes](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
+
+- [AB Testing with Python](https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f)
