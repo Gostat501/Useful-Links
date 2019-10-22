@@ -33,7 +33,7 @@ Useful links for data science.
 
 ```{python}
 # parameters for the analysis 
-effect_size = 0.8
+effect_size = 0.8 # sqrt(mu(A)-mu(B) / std(A+B))
 alpha = 0.05 # significance level
 power = 0.8
 
