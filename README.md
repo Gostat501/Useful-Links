@@ -28,3 +28,5 @@ Useful links for data science.
 - [Jupyter Markdown Codes](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
 
 - [AB Testing with Python](https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f)
+
+- [Power Analysis in Python](https://towardsdatascience.com/introduction-to-power-analysis-in-python-e7b748dfa26)
