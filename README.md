@@ -30,3 +30,17 @@ Useful links for data science.
 - [AB Testing with Python](https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f)
 
 - [Power Analysis in Python](https://towardsdatascience.com/introduction-to-power-analysis-in-python-e7b748dfa26)
+
+```{python}
+# parameters for the analysis 
+effect_size = 0.8
+alpha = 0.05 # significance level
+power = 0.8
+
+power_analysis = TTestIndPower()
+sample_size = power_analysis.solve_power(effect_size = effect_size, 
+                                         power = power, 
+                                         alpha = alpha)
+
+print('Required sample size: {0:.2f}'.format(sample_size))
+```
