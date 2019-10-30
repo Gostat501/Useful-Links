@@ -44,3 +44,16 @@ sample_size = power_analysis.solve_power(effect_size = effect_size,
 
 print('Required sample size: {0:.2f}'.format(sample_size))
 ```
+- [LightGMB as the first machine learning model (Japanese)[https://upura.hatenablog.com/entry/2019/10/29/184617]
+
+- [Why LightGBM is important?](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
+
+
+
+
+
+
+
+
+
+
