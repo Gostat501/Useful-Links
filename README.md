@@ -48,6 +48,9 @@ print('Required sample size: {0:.2f}'.format(sample_size))
 
 - [Why LightGBM is important?](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
 
+- [What statistical analysis should I use?](https://stats.idre.ucla.edu/spss/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-spss/?fbclid=IwAR2pyDQW57ev3wYNkFnjg_p-kBYA6Vxyd0KT58cuom2veNo0a2-hgVZXZak)
+
+
 
 
 
