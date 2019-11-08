@@ -60,6 +60,8 @@ print('Required sample size: {0:.2f}'.format(sample_size))
 
 - [What to do when you are unable to answer technical questions](https://www.quora.com/What-should-I-do-when-asked-a-technical-question-that-I-am-unable-to-answer-at-that-moment-during-a-software-internship-interview)
 
+- [Why you don't land a job](https://www.themuse.com/advice/3-reasons-youre-not-getting-hired-even-though-youre-100-qualified)
+
 
 
 
