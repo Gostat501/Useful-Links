@@ -50,6 +50,12 @@ print('Required sample size: {0:.2f}'.format(sample_size))
 
 - [What statistical analysis should I use?](https://stats.idre.ucla.edu/spss/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-spss/?fbclid=IwAR2pyDQW57ev3wYNkFnjg_p-kBYA6Vxyd0KT58cuom2veNo0a2-hgVZXZak)
 
+
+## Python
+
+- [String data extraction](https://docs.python.org/3/howto/regex.html)
+
+
 ## Interview Preparation
 
 - [What to do when you are unable to answer technical questions](https://www.quora.com/What-should-I-do-when-asked-a-technical-question-that-I-am-unable-to-answer-at-that-moment-during-a-software-internship-interview)
