@@ -72,6 +72,10 @@ print('Required sample size: {0:.2f}'.format(sample_size))
 
 -[CSI](https://www.math.csi.cuny.edu/News/Files/GRE-Announcement.pdf)
 
+-[Swarthmore](http://www.swarthmore.edu/NatSci/wstromq1/Math-Practice.pdf)
+
+-[ETS GRE Math Official](https://www.ets.org/gre/subject/about/content/mathematics)
+
 
 
 
