@@ -68,14 +68,15 @@ print('Required sample size: {0:.2f}'.format(sample_size))
 
 - [What books to use for GRE Math Subject Test?](https://math.stackexchange.com/questions/269549/recommending-books-for-gre-math-subject-test)
 
--[YouTube](https://www.youtube.com/watch?list=PLBiVnG9A5gceFbk7oTBHALETI2SUmplIL&v=jvgm7IcZeAk&feature=emb_title)
+- [YouTube](https://www.youtube.com/watch?list=PLBiVnG9A5gceFbk7oTBHALETI2SUmplIL&v=jvgm7IcZeAk&feature=emb_title)
 
--[CSI](https://www.math.csi.cuny.edu/News/Files/GRE-Announcement.pdf)
+- [CSI](https://www.math.csi.cuny.edu/News/Files/GRE-Announcement.pdf)
 
--[Swarthmore](http://www.swarthmore.edu/NatSci/wstromq1/Math-Practice.pdf)
+- [Swarthmore](http://www.swarthmore.edu/NatSci/wstromq1/Math-Practice.pdf)
 
--[ETS GRE Math Official](https://www.ets.org/gre/subject/about/content/mathematics)
+- [ETS GRE Math Official](https://www.ets.org/gre/subject/about/content/mathematics)
 
+- [Varsity Tutors](https://www.varsitytutors.com/gre_subject_test_math-practice-tests)
 
 
 
