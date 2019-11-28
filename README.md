@@ -50,6 +50,12 @@ print('Required sample size: {0:.2f}'.format(sample_size))
 
 - [What statistical analysis should I use?](https://stats.idre.ucla.edu/spss/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-spss/?fbclid=IwAR2pyDQW57ev3wYNkFnjg_p-kBYA6Vxyd0KT58cuom2veNo0a2-hgVZXZak)
 
+## Data Science
+
+- [UCLA MATH118 Outline](https://www.math.ucla.edu/ugrad/courses/math/118)
+
+- [UCLA MATH156 Outline](https://www.math.ucla.edu/ugrad/courses/math/156)
+
 
 ## Python
 
