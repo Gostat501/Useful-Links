@@ -56,6 +56,9 @@ print('Required sample size: {0:.2f}'.format(sample_size))
 
 - [UCLA MATH156 Outline](https://www.math.ucla.edu/ugrad/courses/math/156)
 
+## Machine Learning
+
+- [High Durability Learning (Japanese)](https://jbpress.ismedia.jp/articles/-/58423?page=2)
 
 ## Python
 
