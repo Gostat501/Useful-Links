@@ -58,6 +58,8 @@ print('Required sample size: {0:.2f}'.format(sample_size))
 
 ## Machine Learning
 
+- [Decision Tree Algorithm](https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1)
+
 - [High Durability Learning (Japanese)](https://jbpress.ismedia.jp/articles/-/58423?page=2)
 
 ## Python
