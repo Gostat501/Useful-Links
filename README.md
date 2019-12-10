@@ -52,6 +52,8 @@ print('Required sample size: {0:.2f}'.format(sample_size))
 
 ## Data Science
 
+- [12 Useful Data Manipulation Techniques in Python](https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/)
+
 - [UCLA MATH118 Outline](https://www.math.ucla.edu/ugrad/courses/math/118)
 
 - [UCLA MATH156 Outline](https://www.math.ucla.edu/ugrad/courses/math/156)
