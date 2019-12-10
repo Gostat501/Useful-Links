@@ -91,6 +91,10 @@ print('Required sample size: {0:.2f}'.format(sample_size))
 
 - [Varsity Tutors](https://www.varsitytutors.com/gre_subject_test_math-practice-tests)
 
+## Miscellaneous
+
+- [Website set up](https://websitesetup.org/)
+
 
 
 
