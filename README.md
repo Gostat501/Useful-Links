@@ -71,6 +71,8 @@ print('Required sample size: {0:.2f}'.format(sample_size))
 
 ## Interview Preparation
 
+- [Data Science interview preparation](https://towardsdatascience.com/preparing-for-in-person-data-science-interviews-some-thoughts-5e2677ee30d9)
+
 - [Land interviews when you don't qualify for all the requirements](https://www.themuse.com/advice/8-ways-you-can-still-land-an-interview-when-you-dont-meet-all-the-requirements)
 
 - [What to do when you are unable to answer technical questions](https://www.quora.com/What-should-I-do-when-asked-a-technical-question-that-I-am-unable-to-answer-at-that-moment-during-a-software-internship-interview)
