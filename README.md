@@ -68,6 +68,8 @@ print('Required sample size: {0:.2f}'.format(sample_size))
 
 - [String data extraction](https://docs.python.org/3/howto/regex.html)
 
+- [Find duplicated rows](https://thispointer.com/pandas-find-duplicate-rows-in-a-dataframe-based-on-all-or-selected-columns-using-dataframe-duplicated-in-python/)
+
 
 ## Interview Preparation
 
