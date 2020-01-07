@@ -70,6 +70,9 @@ print('Required sample size: {0:.2f}'.format(sample_size))
 
 - [Find duplicated rows](https://thispointer.com/pandas-find-duplicate-rows-in-a-dataframe-based-on-all-or-selected-columns-using-dataframe-duplicated-in-python/)
 
+## R
+- [How to downgrade the R version on R studio](https://support.rstudio.com/hc/en-us/articles/200486138-Changing-R-versions-for-RStudio-desktop)
+
 
 ## Interview Preparation
 
