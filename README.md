@@ -74,6 +74,8 @@ print('Required sample size: {0:.2f}'.format(sample_size))
 - [How to downgrade the R version on R studio](https://support.rstudio.com/hc/en-us/articles/200486138-Changing-R-versions-for-RStudio-desktop)
 Note that by holding down the Control key during the launch of RStudio you can cause the R version selection dialog to display at startup.
 
+- [How to install packages NOT from CRAN](https://support.datacamp.com/hc/en-us/articles/360006286174-How-to-install-R-packages-that-are-not-hosted-on-CRAN)
+
 
 ## Interview Preparation
 
