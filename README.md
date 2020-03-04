@@ -58,6 +58,10 @@ print('Required sample size: {0:.2f}'.format(sample_size))
 
 - [UCLA MATH156 Outline](https://www.math.ucla.edu/ugrad/courses/math/156)
 
+## 
+
+- [Bayesian Methods for Media Mix Modeling with Carryover and Shape Effects](https://research.google/pubs/pub46001/)
+
 ## Machine Learning
 
 - [Decision Tree Algorithm](https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1)
