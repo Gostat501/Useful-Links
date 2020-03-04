@@ -62,6 +62,8 @@ print('Required sample size: {0:.2f}'.format(sample_size))
 
 - [Bayesian Methods for Media Mix Modeling with Carryover and Shape Effects](https://research.google/pubs/pub46001/)
 
+- [Difference-in-Difference](https://tjo.hatenablog.com/entry/2016/08/02/190000Z)
+
 ## Machine Learning
 
 - [Decision Tree Algorithm](https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1)
